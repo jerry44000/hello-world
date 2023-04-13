@@ -3,7 +3,7 @@
 	  <h1>What are you doing here ? </h1>
     <p>If you really think it worth it, just register dude.</p>
     <hr>
-     
+    <h2>Seriously ? you really think you're about to change something ? Who the hell do you think you are ? </>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Welcome to the new world </h1>
+   <h1> Shai is watching you bro </h1>
 
   
 </form>
