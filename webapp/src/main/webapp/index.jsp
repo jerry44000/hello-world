@@ -2,6 +2,7 @@
   <div class="container">
 	  <h1>What are you doing here ? </h1>
     <p>If you really think it worth it, just register dude.</p>
+    <p>Welcome to the new user</p>
     <hr>
     <h2>Seriously ? you really think you're about to change something ? Who the hell do you think you are ? </>
     <label for="Name"><b>Enter Name</b></label>
